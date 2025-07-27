@@ -23,6 +23,10 @@ cd baldshop/webapp
 npm install next react react-dom tailwindcss mongodb bcryptjs
 npm install --save-dev typescript @types/node @types/react @types/react-dom eslint eslint-config-next postcss
 ```
+-or
+```bash
+npm install
+```
 
 ### 3. Set up MongoDB
 - Install [MongoDB Community Server](https://www.mongodb.com/try/download/community) and [MongoDB Compass](https://www.mongodb.com/try/download/compass) (GUI, optional).
