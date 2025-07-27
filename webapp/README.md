@@ -20,7 +20,8 @@ cd baldshop/webapp
 
 ### 2. Install dependencies
 ```bash
-npm install
+npm install next react react-dom tailwindcss mongodb bcryptjs
+npm install --save-dev typescript @types/node @types/react @types/react-dom eslint eslint-config-next postcss
 ```
 
 ### 3. Set up MongoDB
